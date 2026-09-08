@@ -38,3 +38,9 @@ docker-compose.override.yml
 # Development
 scratch/
 temp/
+.claude/
+.cursor/
+.mission/
+.remember/
+AGENTS.md
+CLAUDE.md
